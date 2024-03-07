@@ -39,9 +39,8 @@ export default {
         coachId: this.$route.params.id
       });
       this.$router.replace('/coaches');
-
-    }
-  }
+    },
+  },
 };
 </script>
 
