@@ -9,9 +9,7 @@ const store = createStore({
     coaches: coachesModule,
     requests: requestsModule,
     auth: authModule
-  },
-
-
+  }
 });
 
 export default store;
